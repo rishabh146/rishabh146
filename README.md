@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm RISHABH OJHA</h1>
 <h3 align="center">A passionate learner, developer, cyber security enthusiast from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh146&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh146" /> </p>
+
 - 🌱 I’m currently learning **Full stack ,AI & ML, Cyber Security**
 
 - 💬 Ask me about **Full stack ,AI & ML, Cyber Security**
