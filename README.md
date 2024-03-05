@@ -3,7 +3,7 @@
 <!-- https://github.com/rishabh146/rishabh146/blob/main/Keepful%20(1).jpg -->
 
 <h3 align="center">A passionate learner, developer, cyber security enthusiast from India</h3>
-
+<img align="right" width="400" alt="image" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh146&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh146" /> </p>
 
 - 🌱 I’m currently learning **Full stack ,AI & ML, Cyber Security**
