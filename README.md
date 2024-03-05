@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![logo](https://github.com/rohit0235/rohit0235/blob/main/linkdin%20banner.jpeg)
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate learner, developer, cyber security enthusiast from India</h3>
 <img align="right" width="400" alt="image" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit0235&label=Profile%20views&color=0e75b6&style=flat" alt="rohit0235" /> </p>
 
-- 🌱 I’m currently learning **Full stack**
+- 🌱 I’m currently learning **Full stack ,AI & ML, Cyber Security**
 
-- 💬 Ask me about **HTML,CSS,Python,C++**
+- 💬 Ask me about **HTML,CSS,Python,Java**
 
-- 📫 How to reach me **rohitkumarsahu2022@vitbhopal.ac.in**
+- 📫 How to reach me **rishabhojha2022@vitbhopal.ac.in**
 
 - ⚡ Fun fact **i think i am funny**
 
